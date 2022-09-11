@@ -1,0 +1,12 @@
+{
+  "uid": "51c04914-224b-405c-b5e9-3f8b12404a54",
+  "name": "tyler-test",
+  "exclude": [
+    "venv",
+    ".venv",
+    "__pycache__",
+    ".databutton",
+    ".git",
+    "renovate.json"
+  ]
+}
